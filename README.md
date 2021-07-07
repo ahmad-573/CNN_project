@@ -1,4 +1,4 @@
 # DNN_project
-Image recognition using Neural networks. MNIST dataset for training
+Image recognition using Deep Neural networks. MNIST dataset for training
 
 Have not used np.dot().
